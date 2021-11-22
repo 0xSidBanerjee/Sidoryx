@@ -17,3 +17,5 @@
 
 ### My Experiences 🙌
 - [Microsoft Student Community](https://msackiit.tech/) - Learner at MSC KIIT Chapter.
+
+| ![Sid's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Sidoryx&show_icons=true) |
