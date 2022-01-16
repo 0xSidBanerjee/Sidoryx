@@ -13,7 +13,7 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics and Telecommunication & Engineering. </br>
-👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Blockchain, Web Dev, Machine Learning & I enjoy learning new things. </br>
 
 ### My Known and Learning Languages :
 
