@@ -32,7 +32,6 @@
 
 ### My Experiences 🙌
 - [Microsoft Student Community](https://msackiit.tech/) - Learner at MSC KIIT Chapter.
-<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/4KFvuA2LmYYVv46CNN/giphy.gif" />
 ![Sid's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Sidoryx&show_icons=true) 
 
 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidoryx)
