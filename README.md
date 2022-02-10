@@ -13,7 +13,7 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics and Telecommunication & Engineering. </br>
-👨‍💻  I am passionate about Blockchain, Web Dev, Machine Learning & I enjoy learning new things. </br>
+👨‍💻  I'm passionate about Blockchain, Web Dev and Machine Learning & I enjoy learning new things. </br>
 
 ### My Known and Learning Languages :
 
@@ -32,7 +32,7 @@
 
 ### My Experiences 🙌
 - [Microsoft Student Community](https://msackiit.tech/) - Learner at MSC KIIT Chapter.
-
+<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/4KFvuA2LmYYVv46CNN/giphy.gif" />
 ![Sid's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Sidoryx&show_icons=true) 
 
 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidoryx)
