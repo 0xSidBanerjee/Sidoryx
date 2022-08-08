@@ -1,19 +1,57 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Siddhanta
+<h1 align="center"><b> Siddhanta Banerjee </b></h1>
 
-<a href="https://www.linkedin.com/in/sidbanerjee510/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="https://twitter.com/sidstwt">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
-<a href="mailto:siddhantban02@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<br />
+<p> My name is Siddhanta Banerjee. I am a third year Electronics student at KIIT University! I'm passionate about Blockchain, Web Dev and Machine Learning & I enjoy learning new things.</p>
 
-### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electronics and Telecommunication & Engineering. </br>
-👨‍💻  I'm passionate about Blockchain, Web Dev and Machine Learning & I enjoy learning new things. </br>
+Work Experience:
+
+- Technical Executive at MSC KIIT [Winter 2021]
+- Technical Executive at KIIT Blockchain Community [Summer 2022]
+- Learner at MSC KIIT [Winter 2021]
+
+Currently Working On:
+
+- 💻 Creating Personal Protfolio - [Website]() 
+- 💻 Manpower Project
+- 💻 BubblePod Project
+- 🧳 Technical Executive at [MSC KIIT](https://msckiit.tech/)
+
+<h2 align="center"> Currently Working On </h2>
+<br>
+<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
+<p>
+<a href="[]()">
+Personal Portfolio - Private
+</a>
+</p>
+<img src="[https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)" />     
+<img src="[https://img.shields.io/badge/-Discord](https://img.shields.io/badge/-Discord) API-black?style=flat-square&logo=Discord" alt="SASS">    
+<img src="[https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs)" alt="NodeJS">    
+<img src="[https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=Javascript)" alt="JavaScript">    
+<img src="[https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb](https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb)" alt="MongoDB">    
+</div>
+<br>
+<div style="display: flex; align-items: center; justify-content: center;">
+<p>
+<a href="[https://github.com/JSA-McGill/Landing-App](https://github.com/JSA-McGill/Landing-App)">
+ManPower Project
+</a>
+</p>
+<img src="[https://img.shields.io/badge/-ReactJS-black?style=flat-square&amp;logo=React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&amp;logo=React)" alt="ReactJS">    
+<img src="[https://img.shields.io/badge/-SASS-black?style=flat-square&amp;logo=SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&amp;logo=SASS)" alt="SASS">    
+<img src="[https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs)" alt="NodeJS">    
+<img src="[https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=Javascript)" alt="JavaScript">    
+<img src="[https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb](https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb)" alt="MongoDB">    
+</div>
+<br>
+<div style="display: flex; align-items: center; justify-content: center;">
+<p> Wilco Hackathon </p>
+<img src="[https://img.shields.io/badge/-React--Native-black?style=flat-square&amp;logo=React](https://img.shields.io/badge/-React--Native-black?style=flat-square&amp;logo=React)" alt="React-Native">    
+<img src="[https://img.shields.io/badge/-TypeScript-black?style=flat-square&amp;logo=Typescript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&amp;logo=Typescript)" alt="TypeScript">    
+<img src="[https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs)" alt="NodeJS">    
+<img src="[https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb](https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb)" alt="MongoDB">    
+</div>
+</div>
 
 ### My Known and Learning Languages :
 
@@ -30,13 +68,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/64x64.svg" /> </br>
 
-### My Experiences 🙌
-- [Microsoft Student Community](https://msackiit.tech/) - Learner at MSC KIIT Chapter.
+<h2 align="center">Connect with me in</h2>
+<div align="center">
+<a href="[https://github.com/Sidoryx](https://github.com/Sidoryx)">
+<img src="[https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github](https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github)" alt="Github">    
+</a>
+<a href="[https://www.linkedin.com/in/sidbanerjee510/](https://www.linkedin.com/in/sidbanerjee510/)">
+<img src="[https://img.shields.io/badge/-Philip](https://img.shields.io/badge/-Philip) Tam-black?style=flat-square&logo=LinkedIn" alt="Github">    
+</a>
+</div>
 
-![Sid's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Sidoryx&show_icons=true) 
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidoryx)
-
-![Sid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidoryx)
-
-
+<!-- More to come! -->
