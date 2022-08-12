@@ -10,7 +10,7 @@ Work Experience:
 
 Currently Working On:
 
-- 💻 Creating Personal Protfolio - [Website]() 
+- 💻 Creating Personal Portfolio - [Website]() 
 - 💻 Manpower Project
 - 💻 BubblePod Project
 - 🧳 Technical Executive at [MSC KIIT](https://msckiit.tech/)
