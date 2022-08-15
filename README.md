@@ -21,14 +21,14 @@ Currently Working On:
 
 <h2 align="center">Connect with me in</h2>
 <div align="center">
-<a href="[https://github.com/Sidoryx](https://github.com/Sidoryx)">
-<img src="[https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github]" alt="Github">    
+<a href="https://github.com/Sidoryx">
+<img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">   
 </a>
-<a href="[https://www.linkedin.com/in/sidbanerjee510/](https://www.linkedin.com/in/sidbanerjee510/)">
-<img src="[https://img.shields.io/badge/-Philip](https://img.shields.io/badge/-Philip) Tam-black?style=flat-square&logo=LinkedIn" alt="LinkedIn">    
+<a href="https://www.linkedin.com/in/sidbanerjee510/">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=linkedin" alt="LinkedIn">  
 </a>
-<a href="[https://www.linkedin.com/in/sidbanerjee510/](https://www.linkedin.com/in/sidbanerjee510/)">
-<img src="[https://img.shields.io/badge/-Philip](https://img.shields.io/badge/-Philip) Tam-black?style=flat-square&logo=LinkedIn" alt="Twitter">    
+<a href="https://twitter.com/sidstwt">
+<img src="https://img.shields.io/badge/-Twitter-white?style=flat-square&amp;logo=twitter" alt="Twitter">  
 </a>
 </div>
 
