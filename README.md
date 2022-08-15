@@ -2,7 +2,7 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 <h1 align="center"><b> Siddhanta Banerjee </b></h1>
 
-<p> My name is Siddhanta Banerjee. I am a third year Electronics student at KIIT University! I'm passionate about Blockchain, Web Dev and Machine Learning & I enjoy learning new things.</p>
+<p> My name is Siddhanta Banerjee. I am a third year Electronics student at KIIT University! I'm passionate about Blockchain Technology, Web Development, Machine Learning, and Data Science. I love to learn & build stuff in general, especially a new stack/technology. My focus right now is to understand the most I can in terms of different technologies and specialize later! I aim to use the knowledge that I have acquired from my coursework as well as self-study. Whenever I can, I also love to empower communities via open source.</p>
 
 Work Experience:
 
@@ -13,7 +13,7 @@ Work Experience:
 Currently Working On:
 
 - 💻 Creating Personal Portfolio - [Website](https://sidbanerjee.vercel.app/) 
-- 💻 Manpower Project
+- 💻 Manpower Management Project
 - 💻 BubblePod Project
 - 🧳 Technical Executive at [MSC KIIT](https://msckiit.tech/)
 
