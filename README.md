@@ -6,7 +6,7 @@
 
 Work Experience:
 
-- Technical Executive at MSC KIIT [Winter 2021]
+- FullStack Developer at MSC KIIT [Winter 2021]
 - Technical Executive at KIIT Blockchain Community [Summer 2022]
 - Learner at MSC KIIT [Winter 2021]
 
