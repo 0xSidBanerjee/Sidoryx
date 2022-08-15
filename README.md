@@ -10,7 +10,8 @@ Work Experience:
 - Technical Executive at KIIT Blockchain Community [Summer 2022]
 - Learner at MSC KIIT [Winter 2021]
 
-Currently Working On:
+<h2 align="center"> Currently Working On </h2>
+<br>
 
 - 💻 Creating Personal Portfolio - [Website](https://sidbanerjee.vercel.app/) 
 - 💻 Manpower Management Project
