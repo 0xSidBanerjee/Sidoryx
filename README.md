@@ -22,10 +22,13 @@ Currently Working On:
 <h2 align="center">Connect with me in</h2>
 <div align="center">
 <a href="[https://github.com/Sidoryx](https://github.com/Sidoryx)">
-<img src="[https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github](https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github)" alt="Github">    
+<img src="[https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github]" alt="Github">    
 </a>
 <a href="[https://www.linkedin.com/in/sidbanerjee510/](https://www.linkedin.com/in/sidbanerjee510/)">
-<img src="[https://img.shields.io/badge/-Philip](https://img.shields.io/badge/-Philip) Tam-black?style=flat-square&logo=LinkedIn" alt="Github">    
+<img src="[https://img.shields.io/badge/-Philip](https://img.shields.io/badge/-Philip) Tam-black?style=flat-square&logo=LinkedIn" alt="LinkedIn">    
+</a>
+<a href="[https://www.linkedin.com/in/sidbanerjee510/](https://www.linkedin.com/in/sidbanerjee510/)">
+<img src="[https://img.shields.io/badge/-Philip](https://img.shields.io/badge/-Philip) Tam-black?style=flat-square&logo=LinkedIn" alt="Twitter">    
 </a>
 </div>
 
