@@ -14,8 +14,7 @@ Work Experience:
 <br>
 
 - 💻 Creating Personal Portfolio - [Website](https://sidbanerjee.vercel.app/) 
-- 💻 Manpower Management Project
-- 💻 BubblePod Project
+- 💻 Manpower Management Project - [Repo](https://github.com/Sidoryx/Manpower-Management)
 - 🧳 Technical Executive at [MSC KIIT](https://msckiit.tech/)
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
