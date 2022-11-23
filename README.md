@@ -17,7 +17,7 @@ Work Experience:
 - 💻 Manpower Management Project - [Repo](https://github.com/Sidoryx/Manpower-Management)
 - 🧳 Technical Executive at [MSC KIIT](https://msckiit.tech/)
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
